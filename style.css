@@ -1,0 +1,49 @@
+ul {
+    width: fit-content;
+    border-top: solid 10px;
+    border-left: rgb(167, 150, 150) outset 10px;
+    border-bottom: rgb(168, 139, 139) outset 10px;
+    margin: 50px;
+    background-color: black;
+
+    
+     
+}
+
+li {
+    
+    padding: 5px;
+    margin:  20px;
+    color: beige;
+    width:fit-content;
+    
+    
+    
+    
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+    color: beige;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    }
+
+ a:hover {
+    color: rgb(104, 163, 93);
+ }   
+
+ body {
+    background-color: beige;
+   }
+
+ svg {
+   position: relative; bottom: -99px;  
+}
+
+ 
+ 
+    
+
+ 

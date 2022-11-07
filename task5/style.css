@@ -1,0 +1,46 @@
+body {
+    background-color: beige;
+}
+
+label {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+p {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+ }
+
+#duplicateField {
+
+    
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(104, 163, 93);
+    height: 10px;
+} 
+
+button {
+    border-radius: 100px;
+    border-style: ridge;
+    border-color: rgb(167, 150, 150);
+    color: rgb(167, 150, 150);
+}
+
+button:hover {
+    border-color: rgb(157, 38, 38);
+    color: rgb(157, 38, 38);
+    cursor: pointer;
+    
+}
+
+hr {
+    background-color: rgb(167, 150, 150);
+    height: 5px;
+    border-style: initial;
+}
+
+svg {
+    position: relative; bottom: -364px;
+}

@@ -1,0 +1,43 @@
+#intersection {
+    border: solid;
+    background-color: rgb(64, 51, 166);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px;
+    margin: 50px;
+}
+
+#trafficLight1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   background: black;
+   margin: 5px;
+}
+
+#trafficLight2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin: 5px;
+}
+
+#trafficLight3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin: 5px;
+}
+
+body {
+    background-color: beige;
+   }
+
+  
+
+
+svg {
+    position: relative; bottom:-66px;
+}

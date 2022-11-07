@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+   }
+
+   svg {
+    position: relative; bottom: -228px;
+   }
+
+   div {
+    margin: 50px;
+    padding: px;
+    width: fit-content;
+    background-color: black;
+    border-top: black solid 10px;
+    border-left: rgb(167, 150, 150) outset 10px;
+    border-bottom: rgb(168, 139, 139) outset 10px;
+   }
+    
+   code, p { 
+    width: fit-content;
+    margin: 5px;
+    color: beige;
+   }
+   
+
+  div p {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    }
+
+  

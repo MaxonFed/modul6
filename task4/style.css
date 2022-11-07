@@ -1,0 +1,26 @@
+body {
+    background-color: beige;;
+    }
+
+   a {  
+        background-color: black;
+        border-top: black solid 10px;
+        border-left: rgb(167, 150, 150) outset 10px;
+        border-bottom: rgb(168, 139, 139) outset 10px;  
+        width: fit-content;
+        position: relative; left: 50px; bottom: -50px;
+        padding: 5px;
+        text-decoration: none;
+        font-size: larger;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+        color: beige;
+         }
+
+         a:hover {
+            color: rgb(104, 163, 93);
+         }      
+
+         svg {
+            position: relative; bottom: -470px;
+        
+        }
